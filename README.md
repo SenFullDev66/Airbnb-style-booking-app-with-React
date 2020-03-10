@@ -41,7 +41,7 @@ I've added custom styles and extra features besides on original coures.
 
 ## Run Locally
 ```js
-> git clone https://github.com/SenFullDev66/Airbnb-style-booking-app-with-React
+> git clone https://github.com/Professional0321/Airbnb-style-booking-app-with-React
 > npm install
 > npm run start-dev // to start front-end server
 > npm start // to start back-end server
